@@ -1,2 +1,1 @@
-# videoslgbt.github.io
-# Oficial
+# Repositorio oficial do videoslgbt.github.io
