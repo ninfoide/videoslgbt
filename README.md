@@ -1,3 +1,3 @@
 # Repositorio oficial do videoslgbt.github.io
 **Ninfoide SA**
-*201708*
+*2017-08*
